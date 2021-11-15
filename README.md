@@ -1,5 +1,5 @@
 # USER_MANAGEMENT_SYSTEM_Node_JS
-In this project, we are going to create node CRUD application with express and mongodb.
+In this project, we are going to create User Management application with express and mongodb.
 
 #### To Run this project Clone it and install modules using
 ```
